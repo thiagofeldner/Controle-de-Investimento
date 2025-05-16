@@ -5,9 +5,13 @@ Este laboratório tem como objetivo tem como objetivo aplicar os conceitos de Ex
 
 ### Objetivos de Aprendizagem 
 #### Ao concluir este desafio, você será capaz de: 
-
 - Criar ferramentas de simulação de investimentos em Excel;
 - Aplicar cálculos financeiros como rendimento mensal e cálculo de dividendos;
 - Documentar processos técnicos de forma clara e estruturada; 
 - Utilizar o GitHub como ferramenta para compartilhamento de documentação técnica.
 
+#### Lista de Tarefas
+[x] Criar ferramentas de simulação de investimentos em Excel.
+[x] Aplicar cálculos financeiros como rendimento mensal e cálculo de dividendos.
+[x] Documentar processos técnicos de forma clara e estruturada.
+[x] Utilizar o GitHub como ferramenta para compartilhamento de documentação técnica.
