@@ -11,7 +11,7 @@ Este laboratório tem como objetivo tem como objetivo aplicar os conceitos de Ex
 - Utilizar o GitHub como ferramenta para compartilhamento de documentação técnica.
 
 #### Lista de Tarefas
-[x] Criar ferramentas de simulação de investimentos em Excel.
-[x] Aplicar cálculos financeiros como rendimento mensal e cálculo de dividendos.
-[x] Documentar processos técnicos de forma clara e estruturada.
-[x] Utilizar o GitHub como ferramenta para compartilhamento de documentação técnica.
+[x] Criar ferramentas de simulação de investimentos em Excel.<br>
+[x] Aplicar cálculos financeiros como rendimento mensal e cálculo de dividendos.<br>
+[x] Documentar processos técnicos de forma clara e estruturada.<br>
+[x] Utilizar o GitHub como ferramenta para compartilhamento de documentação técnica.<br>
