@@ -28,9 +28,9 @@ Este laboratório tem como objetivo tem como objetivo aplicar os conceitos de Ex
 - Criar tabela de Apoio para facilitar uso de funções;
 - Formatação Condicional;
     
-### Resultado Final do meu Projeto
+### Resultado Final do meu Projeto <br>
 
 <p align="start" >
-     <img width="600" heigth="600" src="https://github.com/thiagofeldner/Controle-de-Investimento/blob/main/images/Controle%20de%20Investimentos.png">
+     <img width="400" heigth="400" src="https://github.com/thiagofeldner/Controle-de-Investimento/blob/main/images/Controle%20de%20Investimentos.png">
 </p>
 
