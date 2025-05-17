@@ -10,8 +10,21 @@ Este laboratório tem como objetivo tem como objetivo aplicar os conceitos de Ex
 - Documentar processos técnicos de forma clara e estruturada; 
 - Utilizar o GitHub como ferramenta para compartilhamento de documentação técnica.
 
-#### Lista de Tarefas
+### Lista de Tarefas
 [x] Criar ferramentas de simulação de investimentos em Excel.<br>
 [x] Aplicar cálculos financeiros como rendimento mensal e cálculo de dividendos.<br>
 [x] Documentar processos técnicos de forma clara e estruturada.<br>
 [x] Utilizar o GitHub como ferramenta para compartilhamento de documentação técnica.<br>
+
+### O que Aprendi
+
+- Criar cálculos;
+- Simular tipos de cenários;
+- Váriaveis Globais;
+- Criar e nomear intervalos;
+- Uniformidade visual;
+- Tipos de fundos de investimentos;
+- Usar e entender a famosa PROCV;
+- Criar tabela de Apoio para facilitar uso de funções;
+- Formatação Condicional;
+    
